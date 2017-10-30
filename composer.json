@@ -1,0 +1,14 @@
+{
+    "name": "difel/custom-log-files",
+    "description": "This Laravel Package will help you to create custom log files by configuration",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Felix",
+            "email": "difel110185@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
